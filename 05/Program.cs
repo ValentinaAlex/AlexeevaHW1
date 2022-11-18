@@ -1,16 +1,17 @@
 ﻿// 5 С клавиатуры вводятся три числа. Найти максимальное из трех чисел
-int a=Convert.ToInt32 (Console.ReadLine());
-int b=Convert.ToInt32 (Console.ReadLine());
-int c=Convert.ToInt32 (Console.ReadLine());
-int max=a;
-if (a > b)
+int a = Convert.ToInt32(Console.ReadLine());
+int b = Convert.ToInt32(Console.ReadLine());
+int c = Convert.ToInt32(Console.ReadLine());
+int max = a;
+if (max < b)
 {
-Console.WriteLine($"{a} > {b}");
+    max = b;
 }
-if (a < c)
+if (max < c)
 {
-Console.WriteLine($"{a} < {c}");
+    max = c;
 }
+Console.WriteLine(max);
 
 
 
