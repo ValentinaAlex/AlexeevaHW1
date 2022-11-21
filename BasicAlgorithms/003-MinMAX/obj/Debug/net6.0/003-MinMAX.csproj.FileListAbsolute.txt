@@ -1,0 +1,15 @@
+/Users/valentinaserbacenko/Desktop/AlexeevaHW1/BasicAlgorithms/003-MinMAX/bin/Debug/net6.0/003-MinMAX
+/Users/valentinaserbacenko/Desktop/AlexeevaHW1/BasicAlgorithms/003-MinMAX/bin/Debug/net6.0/003-MinMAX.deps.json
+/Users/valentinaserbacenko/Desktop/AlexeevaHW1/BasicAlgorithms/003-MinMAX/bin/Debug/net6.0/003-MinMAX.runtimeconfig.json
+/Users/valentinaserbacenko/Desktop/AlexeevaHW1/BasicAlgorithms/003-MinMAX/bin/Debug/net6.0/003-MinMAX.dll
+/Users/valentinaserbacenko/Desktop/AlexeevaHW1/BasicAlgorithms/003-MinMAX/bin/Debug/net6.0/003-MinMAX.pdb
+/Users/valentinaserbacenko/Desktop/AlexeevaHW1/BasicAlgorithms/003-MinMAX/obj/Debug/net6.0/003-MinMAX.csproj.AssemblyReference.cache
+/Users/valentinaserbacenko/Desktop/AlexeevaHW1/BasicAlgorithms/003-MinMAX/obj/Debug/net6.0/003-MinMAX.GeneratedMSBuildEditorConfig.editorconfig
+/Users/valentinaserbacenko/Desktop/AlexeevaHW1/BasicAlgorithms/003-MinMAX/obj/Debug/net6.0/003-MinMAX.AssemblyInfoInputs.cache
+/Users/valentinaserbacenko/Desktop/AlexeevaHW1/BasicAlgorithms/003-MinMAX/obj/Debug/net6.0/003-MinMAX.AssemblyInfo.cs
+/Users/valentinaserbacenko/Desktop/AlexeevaHW1/BasicAlgorithms/003-MinMAX/obj/Debug/net6.0/003-MinMAX.csproj.CoreCompileInputs.cache
+/Users/valentinaserbacenko/Desktop/AlexeevaHW1/BasicAlgorithms/003-MinMAX/obj/Debug/net6.0/003-MinMAX.dll
+/Users/valentinaserbacenko/Desktop/AlexeevaHW1/BasicAlgorithms/003-MinMAX/obj/Debug/net6.0/refint/003-MinMAX.dll
+/Users/valentinaserbacenko/Desktop/AlexeevaHW1/BasicAlgorithms/003-MinMAX/obj/Debug/net6.0/003-MinMAX.pdb
+/Users/valentinaserbacenko/Desktop/AlexeevaHW1/BasicAlgorithms/003-MinMAX/obj/Debug/net6.0/003-MinMAX.genruntimeconfig.cache
+/Users/valentinaserbacenko/Desktop/AlexeevaHW1/BasicAlgorithms/003-MinMAX/obj/Debug/net6.0/ref/003-MinMAX.dll

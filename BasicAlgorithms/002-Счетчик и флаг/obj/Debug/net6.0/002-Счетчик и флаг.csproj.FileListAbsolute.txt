@@ -1,0 +1,5 @@
+/Users/valentinaserbacenko/Desktop/AlexeevaHW1/BasicAlgorithms/002-Счетчик и флаг/obj/Debug/net6.0/002-Счетчик и флаг.csproj.AssemblyReference.cache
+/Users/valentinaserbacenko/Desktop/AlexeevaHW1/BasicAlgorithms/002-Счетчик и флаг/obj/Debug/net6.0/002-Счетчик и флаг.GeneratedMSBuildEditorConfig.editorconfig
+/Users/valentinaserbacenko/Desktop/AlexeevaHW1/BasicAlgorithms/002-Счетчик и флаг/obj/Debug/net6.0/002-Счетчик и флаг.AssemblyInfoInputs.cache
+/Users/valentinaserbacenko/Desktop/AlexeevaHW1/BasicAlgorithms/002-Счетчик и флаг/obj/Debug/net6.0/002-Счетчик и флаг.AssemblyInfo.cs
+/Users/valentinaserbacenko/Desktop/AlexeevaHW1/BasicAlgorithms/002-Счетчик и флаг/obj/Debug/net6.0/002-Счетчик и флаг.csproj.CoreCompileInputs.cache

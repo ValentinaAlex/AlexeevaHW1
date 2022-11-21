@@ -1,0 +1,5 @@
+/Users/valentinaserbacenko/Desktop/AlexeevaHW1/obj/BasicAlgorithms/001 swap/obj/Debug/net6.0/001 swap.csproj.AssemblyReference.cache
+/Users/valentinaserbacenko/Desktop/AlexeevaHW1/obj/BasicAlgorithms/001 swap/obj/Debug/net6.0/001 swap.GeneratedMSBuildEditorConfig.editorconfig
+/Users/valentinaserbacenko/Desktop/AlexeevaHW1/obj/BasicAlgorithms/001 swap/obj/Debug/net6.0/001 swap.AssemblyInfoInputs.cache
+/Users/valentinaserbacenko/Desktop/AlexeevaHW1/obj/BasicAlgorithms/001 swap/obj/Debug/net6.0/001 swap.AssemblyInfo.cs
+/Users/valentinaserbacenko/Desktop/AlexeevaHW1/obj/BasicAlgorithms/001 swap/obj/Debug/net6.0/001 swap.csproj.CoreCompileInputs.cache
