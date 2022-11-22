@@ -1,0 +1,15 @@
+/Users/valentinaserbacenko/Desktop/AlexeevaHW1/BasicAlgorithms/Домашка 2 Alexeeva/017/bin/Debug/net6.0/017
+/Users/valentinaserbacenko/Desktop/AlexeevaHW1/BasicAlgorithms/Домашка 2 Alexeeva/017/bin/Debug/net6.0/017.deps.json
+/Users/valentinaserbacenko/Desktop/AlexeevaHW1/BasicAlgorithms/Домашка 2 Alexeeva/017/bin/Debug/net6.0/017.runtimeconfig.json
+/Users/valentinaserbacenko/Desktop/AlexeevaHW1/BasicAlgorithms/Домашка 2 Alexeeva/017/bin/Debug/net6.0/017.dll
+/Users/valentinaserbacenko/Desktop/AlexeevaHW1/BasicAlgorithms/Домашка 2 Alexeeva/017/bin/Debug/net6.0/017.pdb
+/Users/valentinaserbacenko/Desktop/AlexeevaHW1/BasicAlgorithms/Домашка 2 Alexeeva/017/obj/Debug/net6.0/017.csproj.AssemblyReference.cache
+/Users/valentinaserbacenko/Desktop/AlexeevaHW1/BasicAlgorithms/Домашка 2 Alexeeva/017/obj/Debug/net6.0/017.GeneratedMSBuildEditorConfig.editorconfig
+/Users/valentinaserbacenko/Desktop/AlexeevaHW1/BasicAlgorithms/Домашка 2 Alexeeva/017/obj/Debug/net6.0/017.AssemblyInfoInputs.cache
+/Users/valentinaserbacenko/Desktop/AlexeevaHW1/BasicAlgorithms/Домашка 2 Alexeeva/017/obj/Debug/net6.0/017.AssemblyInfo.cs
+/Users/valentinaserbacenko/Desktop/AlexeevaHW1/BasicAlgorithms/Домашка 2 Alexeeva/017/obj/Debug/net6.0/017.csproj.CoreCompileInputs.cache
+/Users/valentinaserbacenko/Desktop/AlexeevaHW1/BasicAlgorithms/Домашка 2 Alexeeva/017/obj/Debug/net6.0/017.dll
+/Users/valentinaserbacenko/Desktop/AlexeevaHW1/BasicAlgorithms/Домашка 2 Alexeeva/017/obj/Debug/net6.0/refint/017.dll
+/Users/valentinaserbacenko/Desktop/AlexeevaHW1/BasicAlgorithms/Домашка 2 Alexeeva/017/obj/Debug/net6.0/017.pdb
+/Users/valentinaserbacenko/Desktop/AlexeevaHW1/BasicAlgorithms/Домашка 2 Alexeeva/017/obj/Debug/net6.0/017.genruntimeconfig.cache
+/Users/valentinaserbacenko/Desktop/AlexeevaHW1/BasicAlgorithms/Домашка 2 Alexeeva/017/obj/Debug/net6.0/ref/017.dll

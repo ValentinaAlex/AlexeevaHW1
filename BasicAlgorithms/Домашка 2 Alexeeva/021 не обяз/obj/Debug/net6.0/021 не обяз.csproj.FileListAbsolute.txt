@@ -1,0 +1,15 @@
+/Users/valentinaserbacenko/Desktop/AlexeevaHW1/BasicAlgorithms/Домашка 2 Alexeeva/021 не обяз/bin/Debug/net6.0/021 не обяз
+/Users/valentinaserbacenko/Desktop/AlexeevaHW1/BasicAlgorithms/Домашка 2 Alexeeva/021 не обяз/bin/Debug/net6.0/021 не обяз.deps.json
+/Users/valentinaserbacenko/Desktop/AlexeevaHW1/BasicAlgorithms/Домашка 2 Alexeeva/021 не обяз/bin/Debug/net6.0/021 не обяз.runtimeconfig.json
+/Users/valentinaserbacenko/Desktop/AlexeevaHW1/BasicAlgorithms/Домашка 2 Alexeeva/021 не обяз/bin/Debug/net6.0/021 не обяз.dll
+/Users/valentinaserbacenko/Desktop/AlexeevaHW1/BasicAlgorithms/Домашка 2 Alexeeva/021 не обяз/bin/Debug/net6.0/021 не обяз.pdb
+/Users/valentinaserbacenko/Desktop/AlexeevaHW1/BasicAlgorithms/Домашка 2 Alexeeva/021 не обяз/obj/Debug/net6.0/021 не обяз.csproj.AssemblyReference.cache
+/Users/valentinaserbacenko/Desktop/AlexeevaHW1/BasicAlgorithms/Домашка 2 Alexeeva/021 не обяз/obj/Debug/net6.0/021 не обяз.GeneratedMSBuildEditorConfig.editorconfig
+/Users/valentinaserbacenko/Desktop/AlexeevaHW1/BasicAlgorithms/Домашка 2 Alexeeva/021 не обяз/obj/Debug/net6.0/021 не обяз.AssemblyInfoInputs.cache
+/Users/valentinaserbacenko/Desktop/AlexeevaHW1/BasicAlgorithms/Домашка 2 Alexeeva/021 не обяз/obj/Debug/net6.0/021 не обяз.AssemblyInfo.cs
+/Users/valentinaserbacenko/Desktop/AlexeevaHW1/BasicAlgorithms/Домашка 2 Alexeeva/021 не обяз/obj/Debug/net6.0/021 не обяз.csproj.CoreCompileInputs.cache
+/Users/valentinaserbacenko/Desktop/AlexeevaHW1/BasicAlgorithms/Домашка 2 Alexeeva/021 не обяз/obj/Debug/net6.0/021 не обяз.dll
+/Users/valentinaserbacenko/Desktop/AlexeevaHW1/BasicAlgorithms/Домашка 2 Alexeeva/021 не обяз/obj/Debug/net6.0/refint/021 не обяз.dll
+/Users/valentinaserbacenko/Desktop/AlexeevaHW1/BasicAlgorithms/Домашка 2 Alexeeva/021 не обяз/obj/Debug/net6.0/021 не обяз.pdb
+/Users/valentinaserbacenko/Desktop/AlexeevaHW1/BasicAlgorithms/Домашка 2 Alexeeva/021 не обяз/obj/Debug/net6.0/021 не обяз.genruntimeconfig.cache
+/Users/valentinaserbacenko/Desktop/AlexeevaHW1/BasicAlgorithms/Домашка 2 Alexeeva/021 не обяз/obj/Debug/net6.0/ref/021 не обяз.dll
