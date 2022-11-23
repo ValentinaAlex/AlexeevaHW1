@@ -1,0 +1,15 @@
+/Users/valentinaserbacenko/Desktop/AlexeevaHW1/Lesson 3/Equlid/bin/Debug/net6.0/Equlid
+/Users/valentinaserbacenko/Desktop/AlexeevaHW1/Lesson 3/Equlid/bin/Debug/net6.0/Equlid.deps.json
+/Users/valentinaserbacenko/Desktop/AlexeevaHW1/Lesson 3/Equlid/bin/Debug/net6.0/Equlid.runtimeconfig.json
+/Users/valentinaserbacenko/Desktop/AlexeevaHW1/Lesson 3/Equlid/bin/Debug/net6.0/Equlid.dll
+/Users/valentinaserbacenko/Desktop/AlexeevaHW1/Lesson 3/Equlid/bin/Debug/net6.0/Equlid.pdb
+/Users/valentinaserbacenko/Desktop/AlexeevaHW1/Lesson 3/Equlid/obj/Debug/net6.0/Equlid.csproj.AssemblyReference.cache
+/Users/valentinaserbacenko/Desktop/AlexeevaHW1/Lesson 3/Equlid/obj/Debug/net6.0/Equlid.GeneratedMSBuildEditorConfig.editorconfig
+/Users/valentinaserbacenko/Desktop/AlexeevaHW1/Lesson 3/Equlid/obj/Debug/net6.0/Equlid.AssemblyInfoInputs.cache
+/Users/valentinaserbacenko/Desktop/AlexeevaHW1/Lesson 3/Equlid/obj/Debug/net6.0/Equlid.AssemblyInfo.cs
+/Users/valentinaserbacenko/Desktop/AlexeevaHW1/Lesson 3/Equlid/obj/Debug/net6.0/Equlid.csproj.CoreCompileInputs.cache
+/Users/valentinaserbacenko/Desktop/AlexeevaHW1/Lesson 3/Equlid/obj/Debug/net6.0/Equlid.dll
+/Users/valentinaserbacenko/Desktop/AlexeevaHW1/Lesson 3/Equlid/obj/Debug/net6.0/refint/Equlid.dll
+/Users/valentinaserbacenko/Desktop/AlexeevaHW1/Lesson 3/Equlid/obj/Debug/net6.0/Equlid.pdb
+/Users/valentinaserbacenko/Desktop/AlexeevaHW1/Lesson 3/Equlid/obj/Debug/net6.0/Equlid.genruntimeconfig.cache
+/Users/valentinaserbacenko/Desktop/AlexeevaHW1/Lesson 3/Equlid/obj/Debug/net6.0/ref/Equlid.dll
