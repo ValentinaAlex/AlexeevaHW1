@@ -1,0 +1,15 @@
+/Users/valentinaserbacenko/Desktop/AlexeevaHW1/Lesson 3/HW3/025/bin/Debug/net6.0/025
+/Users/valentinaserbacenko/Desktop/AlexeevaHW1/Lesson 3/HW3/025/bin/Debug/net6.0/025.deps.json
+/Users/valentinaserbacenko/Desktop/AlexeevaHW1/Lesson 3/HW3/025/bin/Debug/net6.0/025.runtimeconfig.json
+/Users/valentinaserbacenko/Desktop/AlexeevaHW1/Lesson 3/HW3/025/bin/Debug/net6.0/025.dll
+/Users/valentinaserbacenko/Desktop/AlexeevaHW1/Lesson 3/HW3/025/bin/Debug/net6.0/025.pdb
+/Users/valentinaserbacenko/Desktop/AlexeevaHW1/Lesson 3/HW3/025/obj/Debug/net6.0/025.csproj.AssemblyReference.cache
+/Users/valentinaserbacenko/Desktop/AlexeevaHW1/Lesson 3/HW3/025/obj/Debug/net6.0/025.GeneratedMSBuildEditorConfig.editorconfig
+/Users/valentinaserbacenko/Desktop/AlexeevaHW1/Lesson 3/HW3/025/obj/Debug/net6.0/025.AssemblyInfoInputs.cache
+/Users/valentinaserbacenko/Desktop/AlexeevaHW1/Lesson 3/HW3/025/obj/Debug/net6.0/025.AssemblyInfo.cs
+/Users/valentinaserbacenko/Desktop/AlexeevaHW1/Lesson 3/HW3/025/obj/Debug/net6.0/025.csproj.CoreCompileInputs.cache
+/Users/valentinaserbacenko/Desktop/AlexeevaHW1/Lesson 3/HW3/025/obj/Debug/net6.0/025.dll
+/Users/valentinaserbacenko/Desktop/AlexeevaHW1/Lesson 3/HW3/025/obj/Debug/net6.0/refint/025.dll
+/Users/valentinaserbacenko/Desktop/AlexeevaHW1/Lesson 3/HW3/025/obj/Debug/net6.0/025.pdb
+/Users/valentinaserbacenko/Desktop/AlexeevaHW1/Lesson 3/HW3/025/obj/Debug/net6.0/025.genruntimeconfig.cache
+/Users/valentinaserbacenko/Desktop/AlexeevaHW1/Lesson 3/HW3/025/obj/Debug/net6.0/ref/025.dll
