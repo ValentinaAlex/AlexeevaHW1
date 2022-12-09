@@ -1,0 +1,15 @@
+/Users/valentinaserbacenko/Desktop/AlexeevaHW1/lesson 8/084/obj/Debug/net6.0/084.csproj.AssemblyReference.cache
+/Users/valentinaserbacenko/Desktop/AlexeevaHW1/lesson 8/084/obj/Debug/net6.0/084.GeneratedMSBuildEditorConfig.editorconfig
+/Users/valentinaserbacenko/Desktop/AlexeevaHW1/lesson 8/084/obj/Debug/net6.0/084.AssemblyInfoInputs.cache
+/Users/valentinaserbacenko/Desktop/AlexeevaHW1/lesson 8/084/obj/Debug/net6.0/084.AssemblyInfo.cs
+/Users/valentinaserbacenko/Desktop/AlexeevaHW1/lesson 8/084/obj/Debug/net6.0/084.csproj.CoreCompileInputs.cache
+/Users/valentinaserbacenko/Desktop/AlexeevaHW1/lesson 8/084/bin/Debug/net6.0/084
+/Users/valentinaserbacenko/Desktop/AlexeevaHW1/lesson 8/084/bin/Debug/net6.0/084.deps.json
+/Users/valentinaserbacenko/Desktop/AlexeevaHW1/lesson 8/084/bin/Debug/net6.0/084.runtimeconfig.json
+/Users/valentinaserbacenko/Desktop/AlexeevaHW1/lesson 8/084/bin/Debug/net6.0/084.dll
+/Users/valentinaserbacenko/Desktop/AlexeevaHW1/lesson 8/084/bin/Debug/net6.0/084.pdb
+/Users/valentinaserbacenko/Desktop/AlexeevaHW1/lesson 8/084/obj/Debug/net6.0/084.dll
+/Users/valentinaserbacenko/Desktop/AlexeevaHW1/lesson 8/084/obj/Debug/net6.0/refint/084.dll
+/Users/valentinaserbacenko/Desktop/AlexeevaHW1/lesson 8/084/obj/Debug/net6.0/084.pdb
+/Users/valentinaserbacenko/Desktop/AlexeevaHW1/lesson 8/084/obj/Debug/net6.0/084.genruntimeconfig.cache
+/Users/valentinaserbacenko/Desktop/AlexeevaHW1/lesson 8/084/obj/Debug/net6.0/ref/084.dll
